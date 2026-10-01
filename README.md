@@ -60,19 +60,19 @@ The project combines credit analysis, financial data analysis and business intel
 
 ### Executive Summary
 
-![Executive Summary](screenshots/01-executive-summary.png)
+![Executive Summary](01-executive-summary.png)
 
 ### Asset Quality
 
-![Asset Quality](screenshots/02-asset-quality.png)
+![Asset Quality](02-asset-quality.png)
 
 ### Concentration & Exposure
 
-![Concentration & Exposure](screenshots/03-concentration-exposure.png)
+![Concentration & Exposure](03-concentration-exposure.png)
 
 ### Maturity Schedule
 
-![Maturity Schedule](screenshots/04-maturity-schedule.png)
+![Maturity Schedule](04-maturity-schedule.png)
 
 ## Tools & Technologies
 
