@@ -110,6 +110,8 @@ The project uses a fictional commercial lending dataset created specifically for
 
 The dataset is designed to simulate a commercial lending portfolio containing information used for portfolio monitoring, credit-risk assessment, concentration analysis and maturity management.
 
+[Download the Commercial Loan Portfolio Dataset](data/commercial-loan-portfolio-data.xlsx)
+
 No confidential customer, account or company information is used.
 
 ## Credit Risk Metrics
